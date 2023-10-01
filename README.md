@@ -1,4 +1,9 @@
-RANDOM-BALL :
-The program starts with a basic HTML structure.The program uses JavaScript to create and animate balls within the container.
-The ballCount(n) function generates and adds 'n' balls to the container.The setTimeout function is used to repeatedly call moveBall() every 10 milliseconds, creating continuous animation.
-Finally, the ballCount(6) function is called to create and animate six balls when the page loads.
+Graphics-Animation-Of-The-Random-Walk-
+
+The Project is track movement of the Ball. Now that have created three balls on the screen, it is time to make them move and bounce when it find edges.
+
+Steps to Run project Step 1:Drag the index file into the browser.
+
+Step 2: Once you run the project, three balls will apperas and moves with random position and velocity.
+
+Future improvements The project can enhanced by adding more animation to random walk.
